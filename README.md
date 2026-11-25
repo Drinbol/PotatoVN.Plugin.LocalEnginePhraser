@@ -1,4 +1,12 @@
-﻿# PotatoVN插件脚手架
+﻿# PotatoVN.Plugin.LocalEnginePhraser
+
+PotatoVN 插件：本地引擎断句工具（开发中）。
+
+> 本项目基于 PotatoVN 官方插件脚手架开发，以下为脚手架自带说明。
+
+---
+
+# PotatoVN插件脚手架
 
 这个项目是一个基于PotatoVN的插件脚手架，旨在帮助开发者快速创建和开发PotatoVN插件。请阅读[插件开发文档](https://potatovn.net/development/client-plugin/quick-start.html)以获取更多关于插件开发的信息。
 
